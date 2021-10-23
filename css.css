@@ -1,0 +1,11 @@
+.main{
+background-color: rgb(229, 255, 0);
+}    
+max-width:450px{
+    .main{
+    display: block;
+    text-align: center;
+    }
+    }
+    
+    
